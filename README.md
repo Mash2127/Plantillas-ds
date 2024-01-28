@@ -8,6 +8,8 @@ Our template leverages a Makefile to automate various tasks associated with sett
 
 - [Python 3.10](https://www.python.org/downloads/release/python-3100/)
 - [Git](https://git-scm.com/downloads)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Chocolaatey](https://chocolatey.org/install)  - Optional
 
 
 
@@ -44,7 +46,7 @@ This instruction will install the make package in your computer.
 
 
 ```sh
-local-setup-windows: install-windows
+local-setup-windows
 ```
 
 This instruction will install the libraries of the requirements.txt file.
@@ -54,7 +56,7 @@ This instruction will install the libraries of the requirements.txt file.
 Set up the project environment on Unix-like systems, including the creation of a Python virtual environment and installation of necessary packages.
 
 ```sh
-local-setup-mac: install-unix
+local-setup-mac
 ```
 
 ## Contributing
