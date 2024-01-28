@@ -16,7 +16,7 @@ Our template leverages a Makefile to automate various tasks associated with sett
 To get started with this template, clone the repository using the following command:
 
 ```sh
-git clone https://github.com/hamsomp3/plantilla_ds.git
+git clone https://github.com/jan-polanco-uao/Plantillas-ds.git
 ```
 
 # Environment Setup (Requirements)
@@ -67,7 +67,7 @@ We welcome contributions to this template. Please read our contribution guidelin
 For additional information or questions about the project, you can reach out to the following individuals:
 
 - hamsomp3@hotmail.com
-- janpolanco@javerianacali.edu.co
+- japolanco@uao.edu.co
 - [LinkedIn](https://www.linkedin.com/in/jan-polanco-velasco/)
 
 We will be happy to assist you. Thank you for your interest in this project!
