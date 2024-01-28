@@ -9,9 +9,7 @@ Our template leverages a Makefile to automate various tasks associated with sett
 - [Python 3.10](https://www.python.org/downloads/release/python-3100/)
 - [Git](https://git-scm.com/downloads)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Chocolaatey](https://chocolatey.org/install)  - Optional
-
-
+- [Chocolatey](https://chocolatey.org/install)  - Optional
 
 ## Clone the repository
 
